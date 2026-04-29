@@ -22,7 +22,7 @@ Train custom wake word detection models using text-to-speech generated audio. Th
 ### 1. Clone and Setup
 
 ```bash
-git clone https://github.com/yourusername/wakeword_trainer.git
+git clone https://github.com/bbarrick/wakeword_trainer.git
 cd wakeword_trainer
 
 # Run the automated setup script
